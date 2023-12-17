@@ -9,20 +9,32 @@ function VideoList() {
   const [videos, setVideos] = useState([]);
 
   useEffect(() => {
-    const fetchVideos = async () => {
-      try {
-        const response = await api.get('/search', {
-          params: {
-            q: '고양이', // 원하는 검색어를 입력하세요.
-          },
-        });
-        setVideos(response.data.items);
-      } catch (error) {
-        console.error('Error fetching videos:', error);
-      }
-    };
+    // const fetchVideos = async () => {
+    //   try {
+    //     const response = await api.get('/search', {
+    //       params: {
+    //         q: '고양이', // 원하는 검색어를 입력하세요.
+    //       },
+    //     });
+    //     setVideos(response.data.items);
+    //   } catch (error) {
+    //     console.error('Error fetching videos:', error);
+    //   }
+    // };
 
-    fetchVideos();
+    // fetchVideos();
+    try {
+      console.log('video list component');
+      fetch(`data/sampleData.json`)
+        .then((res) => res.json())
+        .then((data) => {
+          console.log(data);
+          console.log(`get video data...`);
+          setVideos(data.items);
+        });
+    } catch (error) {
+      console.log('error fetching videos...', error);
+    }
   }, []);
 
   return (

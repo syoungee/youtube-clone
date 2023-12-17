@@ -6,8 +6,8 @@ const instance = axios.create({
   baseURL: 'https://www.googleapis.com/youtube/v3/',
   params: {
     part: 'snippet',
-    maxResults: 5,
-    key: 'AIzaSyA-XkmTFfcDKcVO8NL82Lq9WATQzcn82tw',
+    maxResults: 100,
+    key: 'AIzaSyBVPE2fE-gp35vdAc5VVShgGIlPd8PGcpY',
   },
 });
 
