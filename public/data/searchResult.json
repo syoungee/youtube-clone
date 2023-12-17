@@ -1,0 +1,1712 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "gy8HhnTGfxMDRkOOENZ0nkrmVmY",
+  "nextPageToken": "CDIQAA",
+  "regionCode": "KR",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 50
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "y045xbXyeyobc-dOMkL_yx-Oe4E",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "6CZlc7dGFyE"
+      },
+      "snippet": {
+        "publishedAt": "2023-12-15T08:31:42Z",
+        "channelId": "UCzjDgV-G8_J-iRbkYktqyGQ",
+        "title": "다른강아지 이쁘다고 하지마.",
+        "description": "몽자 멤버십 https://www.youtube.com/channel/UCzjDgV-G8_J-iRbkYktqyGQ/join 몽스타그램 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6CZlc7dGFyE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6CZlc7dGFyE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6CZlc7dGFyE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "속삭이는몽자",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-12-15T08:31:42Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "YxlgLBrOjA0Vwi2pmdyZjucTr2U",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Tei1auiBrDY"
+      },
+      "snippet": {
+        "publishedAt": "2023-11-10T08:00:17Z",
+        "channelId": "UCYZv9v_bwfMGc64gLRe34OA",
+        "title": "[#모았동물농장] 심장에 해로운 꼬물이들🐾 모음집 2탄💕 다 같이 모여 있으면 더 더 더 귀여운 아기 강아지🐶들 모음집 #TV동물농장 #AnimalFarm #SBSstory",
+        "description": "꼬물이들 2탄도 올려달라고 하셔서 2탄 들고 왔습니다..! 시고르자브종 꼬물이들만 쏙쏙 모아서 데려왔어요   모여있으면 더 더 더 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Tei1auiBrDY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Tei1auiBrDY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Tei1auiBrDY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "SBS STORY",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-11-10T08:00:17Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "jQlrCziYdeEspEYN2V2GjpC1VHw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "sQ5Z0cK8EKg"
+      },
+      "snippet": {
+        "publishedAt": "2023-12-16T01:00:24Z",
+        "channelId": "UC-IYpdOqjkER7B6cnChwlhA",
+        "title": "화성 번식장 사건, 강아지들은 이후 어떻게 됐을까요? 직접 만나러 가봤습니다.",
+        "description": "이 영상은 경기도청@ggholics 의 제작 지원을 받았습니다. ⭐ 더 많은 기회, 더 고른 기회, 더 나은 기회. 경기도가 함께 합니다. 입양 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sQ5Z0cK8EKg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sQ5Z0cK8EKg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sQ5Z0cK8EKg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "소녀의행성 Girlsplanet",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-12-16T01:00:24Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "qENr3tjHKHH1rZG32r1M_3kfnMs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "qGkKBbY6CG4"
+      },
+      "snippet": {
+        "publishedAt": "2023-12-07T09:35:27Z",
+        "channelId": "UC_OlN2K19JaGXabEm19G1-w",
+        "title": "비 맞으며 새끼들을 지키던 강아지",
+        "description": "유기견, 새끼 강아지, 감동 실화 #short.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qGkKBbY6CG4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qGkKBbY6CG4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qGkKBbY6CG4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "사랑은 과학이다",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-12-07T09:35:27Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "M4EqI8enEnwJoy_hCf5cYhb7PaE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "xAHOvF01aJE"
+      },
+      "snippet": {
+        "publishedAt": "2023-11-29T20:50:45Z",
+        "channelId": "UCrVOkfbb_0q_rrmJ1VkYHsA",
+        "title": "대전 시장 운명이 바뀐 강아지 3만원 정구지 5천원 #shorts #puppy #애완동물",
+        "description": "대전 시장 강아지 좋은 주인 만났네요 #dog #댕댕이 #반려견 #개.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xAHOvF01aJE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xAHOvF01aJE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xAHOvF01aJE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "원세만세",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-11-29T20:50:45Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Mcm0mlk2As7wp-TJO4Fwgx8bL2I",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "TAamIP69OIE"
+      },
+      "snippet": {
+        "publishedAt": "2023-12-15T09:00:17Z",
+        "channelId": "UCeTjVi5qk_F3_1Sr1gU0LwA",
+        "title": "감기 걸린 주인이랑 거리두기 실천하는 강아지..ㅠㅠ",
+        "description": "뚜비 인스타그램 https://www.instagram.com/pom_ddubi/ 뚜비 보호자의 일상 https://bit.ly/3aACvGc 오늘의 일기 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TAamIP69OIE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TAamIP69OIE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TAamIP69OIE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "뚜비TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-12-15T09:00:17Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "qP1V4U0eoAt61-we-GkDNFdaBMo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "vWokMN_YTnM"
+      },
+      "snippet": {
+        "publishedAt": "2023-12-16T11:00:47Z",
+        "channelId": "UC_0X20s5VVUQJllk_S3FCPQ",
+        "title": "강아지가 좋아하는 음악💖🎵강아지 수면을 위한 음악 20시간🐶💖강아지 분리불안 해소 음악🎵💖집에 혼자있는 강아지의 스트레스 해소음악🐶💖출근할때 외출할때 틀어주세요 by 힐링메이트",
+        "description": "강아지가좋아하는음악#강아지음악#강아지수면음악 강아지가 좋아하는 음악    강아지 수면을 위한 음악 20시간    강아지 분리 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vWokMN_YTnM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vWokMN_YTnM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vWokMN_YTnM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "HealingMate - Dog Music",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-12-16T11:00:47Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "23vvlMcuiRI9000FTCHFBCSUiEg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "x972oh_5pec"
+      },
+      "snippet": {
+        "publishedAt": "2023-12-14T09:00:43Z",
+        "channelId": "UCnnwNnVjlCOKFJHIMG60kqg",
+        "title": "강아지한테 물먹고 입 닦는 법 알려주기ㅋㅋㅋㅋㅋㅋ",
+        "description": "오늘은 쇼츠에서 강아지가 물을 먹고 입을 닦는 모습을 보고 너무 귀여워서 콜라에게 한번 알려줘봤어요! 이렇게 하는게 맞는지는 잘 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/x972oh_5pec/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/x972oh_5pec/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/x972oh_5pec/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "슈퍼콜라TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-12-14T09:00:43Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "oLrKUJ5NCzvPPFOy_1_bOQ4iivw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "v9kK5rDELkA"
+      },
+      "snippet": {
+        "publishedAt": "2023-12-16T09:15:02Z",
+        "channelId": "UCr9fTGseL8WjLl0A_RubtZw",
+        "title": "보일러 틀어줬더니 사람처럼 잠든 강아지",
+        "description": "보통견주 #강아지 #dog Kevin MacLeod의 Arcadia - Wonders에는 크리에이티브 커먼즈 저작자 표시 4.0 라이선스가 적용됩니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/v9kK5rDELkA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/v9kK5rDELkA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/v9kK5rDELkA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "보통견주",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-12-16T09:15:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "NJmmhV5XK_5ZIJ0-L8M8nkccBy4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "nGt4nb2TdqI"
+      },
+      "snippet": {
+        "publishedAt": "2023-12-12T09:45:02Z",
+        "channelId": "UCMz9HhOzc6yPcz0HQF6xVtQ",
+        "title": "강아지 많은 집의 &#39;가보자고 개족여행&#39; 🔥",
+        "description": "달달이들 몽땅 데리고 오랜만에 왕엄빠네로 ♩ 출발부터 북적북적한 이번 여행, 과연 어떤 시간을 보내고 왔을까요오?! 달달시스타즈 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nGt4nb2TdqI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nGt4nb2TdqI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nGt4nb2TdqI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "달달투어",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-12-12T09:45:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "P5V-Tg_dxhX_VQ5jbQqBfntHCuo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "GsaHBs-IRZU"
+      },
+      "snippet": {
+        "publishedAt": "2023-12-01T09:00:19Z",
+        "channelId": "UCeTjVi5qk_F3_1Sr1gU0LwA",
+        "title": "식탐 많은 강아지에게 삭힌 홍어를 줘봤더니..ㅋㅋㅋ",
+        "description": "뚜비 인스타그램 https://www.instagram.com/pom_ddubi/ 뚜비 보호자의 일상 https://bit.ly/3aACvGc 오늘의 일기 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GsaHBs-IRZU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GsaHBs-IRZU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GsaHBs-IRZU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "뚜비TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-12-01T09:00:19Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "EMslghRaiwnZyEPjA6XSLCJSAgU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "kqEpePJmv4I"
+      },
+      "snippet": {
+        "publishedAt": "2019-10-31T12:05:11Z",
+        "channelId": "UC4FVoIeyD4VG9Qx9vTHkv8w",
+        "title": "편안한 강아지 음악 - 심리안정 음악ㅣ강아지가 좋아하는 음악 Pet Music(10시간)",
+        "description": "안녕하세요. 작곡가 그린웨일 입니다. 이번에 작업된 음악을 새소리,물소리 등의 자연소리를 활용한 음악 테라피 앨범으로 반려동물이 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kqEpePJmv4I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kqEpePJmv4I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kqEpePJmv4I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "뮤직 메이트 Music Mate",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-10-31T12:05:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "fYIcGLsO76Cqbwn5x4j5Jgt_Ewc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "v6TxSu_R6k0"
+      },
+      "snippet": {
+        "publishedAt": "2023-11-12T10:47:57Z",
+        "channelId": "UC6iv2sEB_r9NMTJcYwLcS9w",
+        "title": "지가 고양이인줄 아는 강아지",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/v6TxSu_R6k0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/v6TxSu_R6k0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/v6TxSu_R6k0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "복둥이네 또오다 ddooda",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-11-12T10:47:57Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "8tR4LzI2A5uWNMNd0RYQsdbPPGQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "iPwajsJ7Z8E"
+      },
+      "snippet": {
+        "publishedAt": "2022-06-01T08:00:17Z",
+        "channelId": "UC22go5LdQEw-iDuxFb4C0hw",
+        "title": "나는 가끔.. 뭘 해도 용서되는 강아지가 되고 싶다..... [거부할 수 없는 강아지들 몰아보기👀]ㅣBinge-Watch On Dogs You Can&#39;t Resist",
+        "description": "천방지축 사고뭉치부터 시선을 사로잡는 강아지들까지! 내 강아지든 아니든 미워할 수 없는 강아지들 모음zip #집에서함께애니멀봐 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iPwajsJ7Z8E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iPwajsJ7Z8E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iPwajsJ7Z8E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "SBS TV동물농장x애니멀봐",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-06-01T08:00:17Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "h8dVxMVzL4FOFDQF2HlFxwIzJi0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "NSCCDeuPh74"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-26T08:22:15Z",
+        "channelId": "UCr5MuzdG2dPscCNYGa6I-KQ",
+        "title": "#shorts 산책하다 쥐랑 뽀뽀한 강아지 세수하고 양치시키기ㅋㅋ#멍빨",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NSCCDeuPh74/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NSCCDeuPh74/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NSCCDeuPh74/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "견생대박태안이네",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-26T08:22:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Ql3U008v9MG_-9yG438jwpqxCJA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "US03fZ0rwns"
+      },
+      "snippet": {
+        "publishedAt": "2023-12-07T03:16:29Z",
+        "channelId": "UCX2laRqGQhqoChYmlaUgOiw",
+        "title": "아기에게 딱 달라붙어 육아 도와주는 강아지 ㅋㅋ",
+        "description": "시바견 곰이탱이 구독해주시바! 구독하기 : https://www.youtube.com/c/시바견곰이탱이?sub_confirmation=1 이름 : 곰이(Gom) ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/US03fZ0rwns/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/US03fZ0rwns/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/US03fZ0rwns/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "솜이네 곰이탱이여우",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-12-07T03:16:29Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "bbKiOsc5x_nxDklK4T5bFVCOxHM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "cmR6B4jpFgo"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-18T23:00:11Z",
+        "channelId": "UC-w9T_XrbjA0llxn23xXU-w",
+        "title": "하룻 강아지 범 무서운 줄 모른다더니 #속담 #호랑이 #개",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cmR6B4jpFgo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cmR6B4jpFgo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cmR6B4jpFgo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "King car",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-18T23:00:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "XdQRdQGrxtZdez0PYh37u5wj7MU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "3BNiGFavnGU"
+      },
+      "snippet": {
+        "publishedAt": "2020-07-31T22:00:03Z",
+        "channelId": "UCPUeGC_AL-OnDQORKhRm6iA",
+        "title": "바나나 차차 (Banana Cha Cha) | 강아지 차차 | 뽀로로와노래해요 | 뽀로로와동물친구들",
+        "description": "뽀로로의 새로운 영상을 가장 빠르게 만나는 방법! 지금 바로 뽀롱뽀롱 뽀로로 공식 유튜브 채널 [구독]버튼을 눌러주세요. ☆뽀로로 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3BNiGFavnGU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3BNiGFavnGU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3BNiGFavnGU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "뽀로로(Pororo)",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-07-31T22:00:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "8L3b4SqDS9JxjeAp-nF7_SSJ9CQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "eA4Wg9nzL4Y"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-20T01:56:31Z",
+        "channelId": "UCyiV1mCTzLS1ZB4hyDgtS6g",
+        "title": "푸틴의 사진을 물어버린 한국 강아지 (러시아밈) #강아지 #푸틴 #shorts",
+        "description": "한국개와 러시아개에게 트럼프, 콘테, 김정은, 푸틴의 사진을 보여주고 반응을 관찰해 보았습니다! 한국개는 푸틴의 사진에 물어버리고 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eA4Wg9nzL4Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eA4Wg9nzL4Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eA4Wg9nzL4Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "이누인 INUINN",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-20T01:56:31Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "EajcQ71UXM3WidVpLgFOfCsybOU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "iu23_JHBgHQ"
+      },
+      "snippet": {
+        "publishedAt": "2023-10-17T09:21:35Z",
+        "channelId": "UCr4CatqympoNVEzGirUSgfg",
+        "title": "장난감 차가 발을 치자.. 강아지 반응",
+        "description": "shorts #강아지 #dog.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iu23_JHBgHQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iu23_JHBgHQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iu23_JHBgHQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "톡톡 동물 지식",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-10-17T09:21:35Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "5U1jrfJfkQw6suRl5TgNzIMNgOk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "rTIr-jljRVU"
+      },
+      "snippet": {
+        "publishedAt": "2023-12-04T10:00:51Z",
+        "channelId": "UCzvBn8w9xLmNw7t9bXK8RWw",
+        "title": "강아지 미용을 함부로 할 수 없는 이유",
+        "description": "shorts #강아지#포메라니안 아픈건아니닌깐 걱정하지말라구!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rTIr-jljRVU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rTIr-jljRVU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rTIr-jljRVU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "곰집사",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-12-04T10:00:51Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "s90PHC5fOK5UGRnc016pXbQQWwc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "QxJuDFKxhmA"
+      },
+      "snippet": {
+        "publishedAt": "2022-08-03T09:00:09Z",
+        "channelId": "UC3PSZivQbIegrfavj4fmgQQ",
+        "title": "먹보 강아지에게 자기 몸보다 큰 수박을 줬더니...",
+        "description": "포메라니안 #루퐁이네 #rudypongki 루퐁이 힐링채널 youtube.com/c/RudyPongki 루디 RUDY (female) / 3.5kg / Pomeranian ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QxJuDFKxhmA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QxJuDFKxhmA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QxJuDFKxhmA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "[THE SOY]루퐁이네",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-08-03T09:00:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "cTkZlUfurT2KGhc-yfhcJ0fw9Ws",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "MHM6GQTwqNg"
+      },
+      "snippet": {
+        "publishedAt": "2023-12-16T12:30:16Z",
+        "channelId": "UC1xFZn4tv_uWc-hAmX97agw",
+        "title": "위험에 빠진 강아지ㅋㅋ",
+        "description": "강아지교육 #강아지반응 #강아지육아일기 시바가 생각보다 다리가 짧구나... \"댓글\"과 \"좋아요\"는 항상 감사합니다 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MHM6GQTwqNg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MHM6GQTwqNg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MHM6GQTwqNg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "시바견 미쓰리 Mi.3",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-12-16T12:30:16Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "pjNM1jdfuVNixdVqalglWsDBXx0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "pk6qx8psjw8"
+      },
+      "snippet": {
+        "publishedAt": "2023-09-05T09:45:04Z",
+        "channelId": "UCMz9HhOzc6yPcz0HQF6xVtQ",
+        "title": "워터파크에 강아지들을 데리고갔더니..💦 [ENG]",
+        "description": "달달이들과 함께 즐거운 여름 즐기기! 강아지 워터파크에 놀러가서 즐거운 시간을 보내고 왔어요 :) 어떤 에피소드가 가장 인상깊었 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pk6qx8psjw8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pk6qx8psjw8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pk6qx8psjw8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "달달투어",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-09-05T09:45:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "p_TzjDXmFd04AZlynJaV40uqlYk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "d2xBuBrE9MI"
+      },
+      "snippet": {
+        "publishedAt": "2023-11-09T11:17:32Z",
+        "channelId": "UCAhKKbDO9-ymWZ_7iAFLBQQ",
+        "title": "구조자가 만지자마자 기절한 강아지ㅠ #shorts",
+        "description": "회차 정보 : 굿모닝 대한민국 라이브 (2020.10.26. 방송) #개 #강아지 #애니멀포유 #유기견 #사지마세요 #사지말고입양하세요 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/d2xBuBrE9MI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/d2xBuBrE9MI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/d2xBuBrE9MI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "KBS동물티비 : 애니멀포유 animal4u",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-11-09T11:17:32Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "vusHuMhbttRwl2PtR5WrjIGfDto",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "2q3VylnH1aE"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-16T09:00:02Z",
+        "channelId": "UCXEKwWflysXu312NmIP_dlw",
+        "title": "아빠는 개 싫다",
+        "description": "코믹숏무비 #너덜트 #반려견 딸의 친구 반려견을 맡게된 완강한 아빠, 거부할 수 없는 강아지의 매력에 벗어나려는 츤데레 아빠의 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2q3VylnH1aE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2q3VylnH1aE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2q3VylnH1aE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "너덜트",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-16T09:00:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "fOPeMdF1FWsue9zFYZJ24QPvIhc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "0lLJBv8hyNo"
+      },
+      "snippet": {
+        "publishedAt": "2023-12-15T02:30:00Z",
+        "channelId": "UCh1m0y8CdRCnerfhEfDFM4g",
+        "title": "추운 겨울이 시작될 무렵 새끼 길냥이가 아기에게 와락 안기면서 시작된 간택 이야기",
+        "description": "뭉치- ♂ 2016년생 골든리트리버 • instagram- https://instagram.com/gaemungchi • goldenmungchi@gmail.com Music provided ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0lLJBv8hyNo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0lLJBv8hyNo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0lLJBv8hyNo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "뭉치의 개팔상팔",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-12-15T02:30:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "lsvM61l-Xajd8Z2ZiEZW8diuFqQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "_SFhO7qCgRM"
+      },
+      "snippet": {
+        "publishedAt": "2023-12-12T10:00:33Z",
+        "channelId": "UC_0X20s5VVUQJllk_S3FCPQ",
+        "title": "강아지가 좋아하는 음악💖🎵강아지 수면유도를 위한 음악 20시간🐶💖혼자남은 강아지 분리불안 해소 음악🎵💖반려견의 스트레스 해소음악🐶💖출근할때 외출할때 틀어주세요 by 힐링메이트",
+        "description": "강아지가좋아하는음악#강아지음악#강아지수면음악 강아지가 좋아하는 음악    강아지 수면유도를 위한 음악 20시간    혼자남은 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_SFhO7qCgRM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_SFhO7qCgRM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_SFhO7qCgRM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "HealingMate - Dog Music",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-12-12T10:00:33Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "fo5xu7DoHeHVVtg-xMAegMtl2-s",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "iYq8F0oWBJY"
+      },
+      "snippet": {
+        "publishedAt": "2023-12-07T03:11:10Z",
+        "channelId": "UC0kH1HO9fMa48KEGpqo7ikw",
+        "title": "돈주고 강아지를 빌리는 이유#shorts",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iYq8F0oWBJY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iYq8F0oWBJY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iYq8F0oWBJY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "따라미",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-12-07T03:11:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "LXJXRvsMjLctc1JUuGBI7SGiqmw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "YWfBe1kp1mU"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-26T05:11:11Z",
+        "channelId": "UCC08gcNmPTgAafZLc1s8ixw",
+        "title": "개가 아이를 물고 끌고 간 이유는?",
+        "description": "개 즐겁게 보시고 오늘도 즐거운 하루 되세요^^",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YWfBe1kp1mU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YWfBe1kp1mU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YWfBe1kp1mU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "쇼숏",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-26T05:11:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Urmlqj-va5Y8mhzKwlHUoBb-cvY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "lCBFzlbuqxI"
+      },
+      "snippet": {
+        "publishedAt": "2023-08-01T09:00:36Z",
+        "channelId": "UCaZS_XwAu1yBMNoQDD1mR7g",
+        "title": "[#행복하개] 엄마 몰래 데려온 강아지의 최후🔥 아기 강아지 입양 첫날🐾 #강아지입양",
+        "description": "견주 필수 시청   #행복하개 강아지 키우는 건 절대 싫다던 아내 몰래 아기 허스키를 집에 데려왔다! 앞으로 함께하게 될 강아지와 빨리 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lCBFzlbuqxI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lCBFzlbuqxI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lCBFzlbuqxI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "채널A 캔버스",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-08-01T09:00:36Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "MxSio4vnTbSy8dHLDyGWJFbs1gA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ie3qzv-dPyM"
+      },
+      "snippet": {
+        "publishedAt": "2023-12-15T09:49:09Z",
+        "channelId": "UC7gDQCxC1wr955ECW6wSOoA",
+        "title": "슬픔주의⚠️강아지 케어 ASMR 망고벌레 압출, 귓털뽑기, 애견 미용, 양치",
+        "description": "Director : LULUPANG Vocal & Remix : Worknezz (https://www.youtube.com/@worknezz794) Aminator : Shinyoung Park Sound ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ie3qzv-dPyM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ie3qzv-dPyM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ie3qzv-dPyM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "LULUPANG 루루팡",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-12-15T09:49:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "e_e90D8DuwgjcT6-MTLly7FlyeI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "w61dwqp8eM0"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-21T09:00:37Z",
+        "channelId": "UC8LPp9CiM5cCK22HgIgcOiA",
+        "title": "사료통을 열어두고 주인이 사라지자 강아지 반응들이 너무 웃김ㅋㅋ",
+        "description": "Instagram (    귀여운 모습 더 많이 볼 수 있어요) http://www.instagram.com/hello_4dogs ☆  호야  (첫째) : 실버탄 토이 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/w61dwqp8eM0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/w61dwqp8eM0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/w61dwqp8eM0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "사둥이네TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-21T09:00:37Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "t6kHwO8qiJIF8xeIOc11kM3YRrI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "QEfUgfB7BUA"
+      },
+      "snippet": {
+        "publishedAt": "2023-10-11T09:03:41Z",
+        "channelId": "UC-L3U9w8FigpReGfYGytvdw",
+        "title": "새끼를 위해 고기를 양보하는 엄마 개의 놀라운 모성애",
+        "description": "동물 #강아지 #dog #animals.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QEfUgfB7BUA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QEfUgfB7BUA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QEfUgfB7BUA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "개블리",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-10-11T09:03:41Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ARtHd1bFesaQ70HjZEm_x7zEiZ8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "on09zv-ujyc"
+      },
+      "snippet": {
+        "publishedAt": "2022-01-12T03:01:03Z",
+        "channelId": "UC-IYpdOqjkER7B6cnChwlhA",
+        "title": "단체로 항의하는 아기 강아지들ㅋㅋㅋ",
+        "description": "소녀의행성 #강아지 #dog 단체로 항의하는 아기 강아지들 즐겁게 시청해주세요♥ - 소행성 팬 가입해주세요 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/on09zv-ujyc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/on09zv-ujyc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/on09zv-ujyc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "소녀의행성 Girlsplanet",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-01-12T03:01:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "tiZYQcSYesu1Bbq2KprXzZDoCvU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "E1AME5ZiVBs"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-23T04:45:00Z",
+        "channelId": "UC-HPV3-AL8z4KcSi6Sk9EQw",
+        "title": "다람쥐와 친구하고 싶은 강아지",
+        "description": "shorts.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/E1AME5ZiVBs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/E1AME5ZiVBs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/E1AME5ZiVBs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "핵심만",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-23T04:45:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "6PDZuwYrDTJQ47VsYCA82D6_q68",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Faz4taFQsIM"
+      },
+      "snippet": {
+        "publishedAt": "2023-12-11T09:00:30Z",
+        "channelId": "UC3PSZivQbIegrfavj4fmgQQ",
+        "title": "먹깨비 강아지 앞에서 간식을 만들었더니...",
+        "description": "포메라니안 #루퐁이네 #rudypongki 루퐁이 힐링채널 youtube.com/c/RudyPongki 루디 RUDY (female) / 3.5kg / Pomeranian ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Faz4taFQsIM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Faz4taFQsIM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Faz4taFQsIM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "[THE SOY]루퐁이네",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-12-11T09:00:30Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "qT4gOyQbIspDLlmcs2lz8Uuo3CE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "h5abCn4MCVk"
+      },
+      "snippet": {
+        "publishedAt": "2023-12-05T09:00:27Z",
+        "channelId": "UClt6iQH20RYzFIKv57dT_NQ",
+        "title": "사람보다 좋은 밥 먹는 강아지",
+        "description": "강아지 #shorts.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/h5abCn4MCVk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/h5abCn4MCVk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/h5abCn4MCVk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "진짜네",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-12-05T09:00:27Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ITSRIP6ZiuXWrJhWz8nUzwaWHRE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "StdyGFlqTPc"
+      },
+      "snippet": {
+        "publishedAt": "2023-11-20T06:21:51Z",
+        "channelId": "UCrqhkVSl3JpAhA3XnjOsQrw",
+        "title": "방언 터진 강아지 | #Shorts",
+        "description": "강복순/boksoon 2018.12.23, 女, 진도믹스(    ) 트레이드마크 : 펄럭이는 짝짝이 귀(10시15분⏰) 특기 : 목욕, 공놀이 ⭐인스타그램 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/StdyGFlqTPc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/StdyGFlqTPc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/StdyGFlqTPc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "강복순",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-11-20T06:21:51Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "8xGMQqrQu5YBlU6RAj5RejcvPrM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "YcG3FGwEdMg"
+      },
+      "snippet": {
+        "publishedAt": "2021-01-18T11:39:04Z",
+        "channelId": "UCR90rtDqmA4FV1bVnD6o0nQ",
+        "title": "강아지",
+        "description": "Provided to YouTube by YG PLUS 강아지 · 검정치마 201 (Special Edition) ℗ DOGGYRICH FOREVER, BESPOK. Released on: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YcG3FGwEdMg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YcG3FGwEdMg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YcG3FGwEdMg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "The Black Skirts - Topic",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-01-18T11:39:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "idl79Eyekyq4NKcD2defH8J6TOM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "LSTbj6CakvI"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-03T10:00:10Z",
+        "channelId": "UC_0X20s5VVUQJllk_S3FCPQ",
+        "title": "강아지가 좋아하는 음악🐶💖강아지 수면 음악 20시간 광고X🐶🎵강아지 분리불안 &amp; 스트레스 완화🎵집에 혼자있는 강아지를 위한 음악🎵외출할때 출근할때 꼭 틀어주세요 by 힐링메이트",
+        "description": "강아지가좋아하는음악#강아지음악#강아지수면음악 강아지가 좋아하는 음악    강아지 수면 음악 20시간 광고X    강아지 분리 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LSTbj6CakvI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LSTbj6CakvI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LSTbj6CakvI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "HealingMate - Dog Music",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-03T10:00:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "dLhyqPDxmhh5tWwZLWvUoJ5jDwQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ENcGwRD-NMA"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-16T05:03:57Z",
+        "channelId": "UCFg8jw3ZIK50CW0G2P_13cA",
+        "title": "아이 향해 달려든 이웃집 개…&#39;반려견 셰퍼드&#39;가 한 행동 / JTBC 사건반장",
+        "description": "독일 셰퍼드 한 마리가 아이와 함께 마당에서 뛰놀고 있습니다. 그런데 그때 멀리서 검은 개 한 마리가 아이를 덮칠 듯 빠른 속도로 달려 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ENcGwRD-NMA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ENcGwRD-NMA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ENcGwRD-NMA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "사건반장",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-16T05:03:57Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "NF8kAdJOKTYuW5ps9L8WR9c6lqg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "m6-pZDEpDAg"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-03T23:00:19Z",
+        "channelId": "UC22go5LdQEw-iDuxFb4C0hw",
+        "title": "그 시절 우리가 사랑했던 아기와 강아지.. 4년 후ㅣDog That Saved Lifetime Family&#39;s Lives",
+        "description": "4년 전, 숨멎 케미 보여준 시아X수아 자매와 강아지 '달봉이' 어린이날을 맞아 훌쩍 자란 아이들과 함께 나이 들어가고 있다는 '달봉이' ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/m6-pZDEpDAg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/m6-pZDEpDAg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/m6-pZDEpDAg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "SBS TV동물농장x애니멀봐",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-03T23:00:19Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "tUoykATShGhloWbIzt__Ah_Y0KE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "s92eXSmz0vA"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-16T10:30:23Z",
+        "channelId": "UCMz9HhOzc6yPcz0HQF6xVtQ",
+        "title": "강아지 많은 집은 비오는날 뭘할까? ☔",
+        "description": "우리집 저 집중한 정수리들 좀 보세요오 강아지 많은 집은 비오는 날 이렇게 보낸답니다 ✨ 달달시스타즈 개족소개 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/s92eXSmz0vA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/s92eXSmz0vA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/s92eXSmz0vA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "달달투어",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-16T10:30:23Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "xRGxbb7Upj-d7jgREueXxIEjmDM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Qvo3mTYgst0"
+      },
+      "snippet": {
+        "publishedAt": "2023-12-15T01:00:10Z",
+        "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+        "title": "꾸벅 조는 &#39;강아지 학생&#39;과 열띤 &#39;꼬마 선생님&#39;의 단란한 수업 #글로벌픽 / JTBC 사건반장",
+        "description": "어린 친구가 밤늦게까지 책상에 앉아 공부하고 있습니다. 그런데 혼자가 아니죠. 그 옆에 눈이 이미 반쯤 감긴 강아지 한 마리가 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Qvo3mTYgst0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Qvo3mTYgst0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Qvo3mTYgst0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "JTBC News",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-12-15T01:00:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "G7ksV8qdX7a_TBl6CVmvzC6OMSE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "zoHrtAXPzAk"
+      },
+      "snippet": {
+        "publishedAt": "2023-06-24T03:00:28Z",
+        "channelId": "UCee1MvXr6E8qC_d2WEYTU5g",
+        "title": "홍종현씨. 강아지는 두고 가세요. 덩치는 산만한데 애교 덩어리인 진도스키 [강형욱의개스트쇼] EP.15",
+        "description": "아 진짜 진아 너무 보고 싶다 정말 잘 지내니 아픈덴 없고? 밥은? 산책은? 보듬 어드벤처 리드줄 2미터 버전 신제품 출시! 더 가볍고 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zoHrtAXPzAk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zoHrtAXPzAk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zoHrtAXPzAk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "강형욱의 보듬TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-06-24T03:00:28Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "JVEWRXlQ7HGPncaFFx7FLx1iEr4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "CfYeP-xUAxE"
+      },
+      "snippet": {
+        "publishedAt": "2023-11-05T04:27:58Z",
+        "channelId": "UCrf5zJvtOoZkIviA3IZNPGA",
+        "title": "사람처럼 똑똑한 강아지 키우면 생기는 일들",
+        "description": "Profile 이름 : 사월 성별 : 女 견종 : 스탠다드푸들 생년월일 : 2019년 4월 19일 특징 : 눈치백단, 오빠 껌딱지♥ 꿈 : 마당있는 주택살기 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CfYeP-xUAxE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CfYeP-xUAxE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CfYeP-xUAxE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "천재견 사월이sawol",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-11-05T04:27:58Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "rLvT59nkYq8poC_pYde6T3_ssiA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Dx5iK3qSD1w"
+      },
+      "snippet": {
+        "publishedAt": "2023-03-09T04:00:04Z",
+        "channelId": "UCiwQRG2sCcfjKkgxMEdJGPg",
+        "title": "[#나혼자산다] 강아지와 함께 하는 삶, 이게 바로 행복이지❤️ 귀여움 한도 초과 나혼산 강아지들 모음.zip | #키 #전현무 #태연 #설인아 #반려견 MBC230203방송",
+        "description": "[나 혼자 산다] 금요일 밤 11시 10분 방송! MBC의 따끈따끈한 영상을 내 맘대로 편하게 즐기는 채널   엠뚜루마뚜루 구독 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Dx5iK3qSD1w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Dx5iK3qSD1w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Dx5iK3qSD1w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "엠뚜루마뚜루 : MBC 공식 종합 채널",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-03-09T04:00:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "9CkiD0zmz94KupKrbrKg-s4kchQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "nRGWHaphYW0"
+      },
+      "snippet": {
+        "publishedAt": "2023-06-17T05:05:37Z",
+        "channelId": "UCB8aYozp5ALTTiCxg2PjABw",
+        "title": "수박 꺼내자마자 달려오는 강아지",
+        "description": "강아지 #귀여운강아지 #말티즈 #말티즈유튜버 #꿍이 #여름 #수박먹방.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nRGWHaphYW0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nRGWHaphYW0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nRGWHaphYW0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "꿍이",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-06-17T05:05:37Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "vgC44JsCTblhrXVEmsN1vKMHSJE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "0wtcB53GJ-w"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-21T10:20:39Z",
+        "channelId": "UCMz9HhOzc6yPcz0HQF6xVtQ",
+        "title": "강아지 열하나 새해 첫 개족여행 💫",
+        "description": "달달이들 몽땅 데리고 새해 첫 여행을 다녀왔어요! 우리가 가장 편하게 기분좋게 지낼 수 있는 왕엄빠네로..✨ 여러분도 즐거운 여행에 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0wtcB53GJ-w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0wtcB53GJ-w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0wtcB53GJ-w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "달달투어",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-21T10:20:39Z"
+      }
+    }
+  ]
+}
