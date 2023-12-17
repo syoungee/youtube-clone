@@ -1,7 +1,7 @@
 // src/VideoList.js
 
 import React, { useState, useEffect } from 'react';
-import api from './api';
+import api from '../apis/api';
 
 function VideoList() {
   const [videos, setVideos] = useState([]);
@@ -11,7 +11,7 @@ function VideoList() {
       try {
         const response = await api.get('/search', {
           params: {
-            q: 'React.js', // 원하는 검색어를 입력하세요.
+            q: '고양이', // 원하는 검색어를 입력하세요.
           },
         });
         setVideos(response.data.items);

@@ -1,7 +1,7 @@
 // src/App.js
 
 import React from 'react';
-import VideoList from './VideoList';
+import VideoList from './components/VideoList';
 
 function App() {
   return (
