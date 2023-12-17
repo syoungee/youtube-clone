@@ -2,6 +2,8 @@
 
 import React, { useState, useEffect } from 'react';
 import api from '../apis/api';
+import Header from './Header';
+import styles from './VideoList.module.css';
 
 function VideoList() {
   const [videos, setVideos] = useState([]);
@@ -25,8 +27,8 @@ function VideoList() {
 
   return (
     <div>
-      <h2>YouTube Clone</h2>
-      <ul>
+      <Header />
+      <ul className={styles['video-container']}>
         {videos.map((video) => (
           <li key={video.id.videoId}>
             <img src={video.snippet.thumbnails.medium.url} alt={video.snippet.title} />
