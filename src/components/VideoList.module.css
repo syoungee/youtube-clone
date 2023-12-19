@@ -3,3 +3,7 @@
   grid-template-columns: repeat(3, 1fr);
   gap: 10px; /* 여백 설정 */
 }
+
+.thumbnail {
+  border-radius: 0.5rem;
+}

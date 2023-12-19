@@ -1,0 +1,7 @@
+.video-container {
+  border-radius: 1rem;
+  margin: 0 auto;
+  max-width: 800px;
+  max-height: 500px;
+  overflow: hidden;
+}
