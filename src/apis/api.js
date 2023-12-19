@@ -7,7 +7,7 @@ const instance = axios.create({
   params: {
     part: 'snippet',
     maxResults: 100,
-    key: 'AIzaSyBVPE2fE-gp35vdAc5VVShgGIlPd8PGcpY',
+    key: process.env.REACT_YOUTUBE_API_KEY,
   },
 });
 

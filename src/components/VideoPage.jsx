@@ -5,6 +5,7 @@ import YoutubePlayer from './YoutubePlayer';
 
 export default function VideoPage() {
   const [videos, setVideos] = useState([]);
+  const [channelData, setChannelData] = useState([]);
   const [keyword, setKeyword] = useState('');
 
   const getSearchedData = () => {
@@ -37,10 +38,42 @@ export default function VideoPage() {
     }
   };
 
+  const getChannelData = () => {
+    // https://www.googleapis.com/youtube/v3/search
+    // "part": [
+    //   "snippet"
+    // ],
+    // "q": "YgwdYs8kMsA"
+    try {
+      console.log('video list component');
+      fetch(`data/videoData.json`)
+        .then((res) => res.json())
+        .then((data) => {
+          console.log(data);
+          console.log(`get video data...`);
+
+          console.log(data.items?.[0]?.snippet);
+          // channelId, channelTitle, description, publishedAt
+          // channelData?.[0]?.snippet.channelTitle
+          setChannelData(data.items);
+        });
+    } catch (error) {
+      console.log('error fetching videos...', error);
+    }
+  };
+
+  useEffect(() => {
+    getChannelData();
+  }, []);
+
   return (
     <div>
       <Header setKeyword={setKeyword} getSearchedData={getSearchedData} />
-      <YoutubePlayer />
+      <YoutubePlayer
+        channelTitle={channelData?.[0]?.snippet?.channelTitle}
+        channelDesc={channelData?.[0]?.snippet?.description}
+        publishedAt={channelData?.[0]?.snippet?.publishedAt}
+      />
     </div>
   );
 }

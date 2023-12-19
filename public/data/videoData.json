@@ -1,0 +1,79 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "iv7u1-MfaVJ4gCRYNFaZskJ3jS4",
+  "regionCode": "KR",
+  "pageInfo": {
+    "totalResults": 4,
+    "resultsPerPage": 2
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "KeKucttjGZvhWLPTDIjOYfHzGSY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "YgwdYs8kMsA"
+      },
+      "snippet": {
+        "publishedAt": "2021-11-30T05:10:38Z",
+        "channelId": "UCHvqGiZqFta9ozRit3tiRRQ",
+        "title": "[ᴘʟᴀʏʟɪsᴛ] 20•30대들이 환장할 그시절 K-캐롤 모음.zip🎄❤️",
+        "description": "노래 #크리스마스 #K캐롤 #플레이리스트 - - MUSIC - CONTACT h22zzuu@gmail.com.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YgwdYs8kMsA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YgwdYs8kMsA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YgwdYs8kMsA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "체리쥬",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-11-30T05:10:38Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "NjT5Fhe9eEm4YCOuZ-Et3bbdOjA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "6pMMa8BqKQw"
+      },
+      "snippet": {
+        "publishedAt": "2023-12-17T06:15:30Z",
+        "channelId": "UCVTEqzrwugUPdoGizL41kNg",
+        "title": "ㄴㅇㅋㅌㅊㅋㅌㅊ의 사본",
+        "description": "ㅂㅈㅇㅋㅌㅊㅋㅌㅊ.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6pMMa8BqKQw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6pMMa8BqKQw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6pMMa8BqKQw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Happy Monjil 444 Gamerz",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-12-17T06:15:30Z"
+      }
+    }
+  ]
+}
