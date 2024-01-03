@@ -1,7 +1,7 @@
 // src/VideoList.js
 import React, { useState, useEffect } from 'react';
 import api from '../apis/api';
-import Header from './Header';
+import SearchHeader from './SearchHeader';
 import styles from './VideoList.module.css';
 
 function VideoList() {
@@ -69,7 +69,7 @@ function VideoList() {
 
   return (
     <div>
-      <Header setKeyword={setKeyword} getSearchedData={getSearchedData} />
+      <SearchHeader />
       <ul className={styles['video-container']}>
         {videos.map((video) => (
           <li key={video.id.videoId}>
