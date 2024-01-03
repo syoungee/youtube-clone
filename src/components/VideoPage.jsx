@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import api from '../apis/api';
-import Header from './Header';
+import Header from './SearchHeader';
 import YoutubePlayer from './YoutubePlayer';
 
 export default function VideoPage() {
