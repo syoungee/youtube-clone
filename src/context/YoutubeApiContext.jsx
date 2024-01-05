@@ -5,7 +5,9 @@ import YoutubeClient from '../api/youtubeClient';
 
 export const YoutubeApiContext = createContext();
 
+// 1) mock data 사용시 FakeYoutubeClient 사용
 const client = new FakeYoutubeClient();
+// 2) 실제 data 사용시 YoutubeClient 사용
 // const client = new YoutubeClient();
 const youtube = new Youtube(client);
 
