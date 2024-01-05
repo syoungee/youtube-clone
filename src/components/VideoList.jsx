@@ -1,6 +1,6 @@
 // src/VideoList.js
 import React, { useState, useEffect } from 'react';
-import api from '../apis/api';
+import api from '../api/api';
 import SearchHeader from './SearchHeader';
 import styles from './VideoList.module.css';
 
