@@ -4,7 +4,10 @@ import { useQuery } from '@tanstack/react-query';
 import SearchHeader from '../components/SearchHeader';
 import styles from '../components/VideoList.module.css';
 import { useYoutubeApi } from '../context/YoutubeApiContext';
-import { format, render, cancel, register } from 'timeago.js';
+import { format, register } from 'timeago.js';
+import koLocale from 'timeago.js/lib/lang/ko';
+
+register('ko', koLocale);
 
 export default function Videos() {
   const { keyword } = useParams();
@@ -25,7 +28,7 @@ export default function Videos() {
               <p>{video.snippet.title}</p>
               <p>{video.snippet.channelTitle}</p>
               <p>{video.snippet.publishedAt}</p>
-              <p>{format(video.snippet.publishedAt)}</p>
+              <p>{format(video.snippet.publishedAt, 'ko')}</p>
             </li>
           ))}
       </ul>
