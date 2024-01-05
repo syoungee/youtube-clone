@@ -1,7 +1,22 @@
+
 .video-container {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  gap: 10px; /* 여백 설정 */
+  grid-template-columns: repeat(1, 1fr);
+  /* 여백 설정 */
+  grid-column-gap: 20px;
+  grid-row-gap: 40px;
+}
+
+@media screen and (min-width: 700px) {
+  .video-container {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  .video-container {
+    grid-template-columns: repeat(3, 1fr);
+  }
 }
 
 .thumbnail {
