@@ -22,10 +22,12 @@ export default function Videos() {
           videos.map((video) => (
             <li key={video.id}>
               <img src={video.snippet.thumbnails.medium.url} alt={video.snippet.title} className={styles['thumbnail']} />
-              <p>{video.snippet.title}</p>
-              <p>{video.snippet.channelTitle}</p>
-              {/* <p>{video.snippet.publishedAt}</p> */}
-              <p>{formatAgo(video.snippet.publishedAt, 'ko')}</p>
+              <div>
+                <p className="font-semibold my-2 line-clamp-2">{video.snippet.title}</p>
+                <p className="text-sm opacity-80">{video.snippet.channelTitle}</p>
+                {/* <p>{video.snippet.publishedAt}</p> */}
+                <p className="text-sm opacity-80">{formatAgo(video.snippet.publishedAt, 'ko')}</p>
+              </div>
             </li>
           ))}
       </ul>
