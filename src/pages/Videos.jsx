@@ -31,8 +31,7 @@ export default function Videos() {
                 alt={video.snippet.title}
                 className={styles['thumbnail']}
                 onClick={() => {
-                  console.log(video.id?.videoId);
-                  navigate(`/videos/watch/${video.id.videoId}`);
+                  navigate(`/videos/watch/${video.id?.videoId || video.id}`, { state: { video } });
                 }}
               />
               <div>
