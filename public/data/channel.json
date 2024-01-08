@@ -1,0 +1,43 @@
+{
+  "kind": "youtube#channelListResponse",
+  "etag": "D5V1eylSdzI0wHYLybRI9ZChWrA",
+  "pageInfo": {
+    "totalResults": 1,
+    "resultsPerPage": 5
+  },
+  "items": [
+    {
+      "kind": "youtube#channel",
+      "etag": "qojKnDZ6tA-NNcDV-nBQlH1OwzA",
+      "id": "UC6P38PNQ_0psMYAGdau-9jg",
+      "snippet": {
+        "title": "알달또 Ardarddo",
+        "description": "알달또는 춘천에서의 부모님과 딸 - 국화 장미\n                 일산에서의 아들과 며느리 - 알쏭 달쏭 춘또 또또 레오의 일상 생활을 보여주는 \n\n가족 고양이 채널입니다\n\n\n인스타그램\n알달또 ardarddo\n춘또 chunto_luv\n[알달또 일러스트]집사가 직접그린\ngahi_88\n\n\n*****알달또 문의*****\nmyujizza@naver.com",
+        "customUrl": "@ardarddo",
+        "publishedAt": "2020-02-24T10:40:46.89094Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/aEe3HSgtBd8b8vndP6casPXE9pkQ4q6ry9mgwHazAmrYvipKLR6zMrVkUh7wFXQ5IXc4HVjX=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/aEe3HSgtBd8b8vndP6casPXE9pkQ4q6ry9mgwHazAmrYvipKLR6zMrVkUh7wFXQ5IXc4HVjX=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/aEe3HSgtBd8b8vndP6casPXE9pkQ4q6ry9mgwHazAmrYvipKLR6zMrVkUh7wFXQ5IXc4HVjX=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "알달또 Ardarddo",
+          "description": "알달또는 춘천에서의 부모님과 딸 - 국화 장미\n                 일산에서의 아들과 며느리 - 알쏭 달쏭 춘또 또또 레오의 일상 생활을 보여주는 \n\n가족 고양이 채널입니다\n\n\n인스타그램\n알달또 ardarddo\n춘또 chunto_luv\n[알달또 일러스트]집사가 직접그린\ngahi_88\n\n\n*****알달또 문의*****\nmyujizza@naver.com"
+        },
+        "country": "KR"
+      }
+    }
+  ]
+}

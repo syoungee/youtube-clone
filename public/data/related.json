@@ -1,0 +1,787 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "3UJRMz4w1SXE_q4JNJN9sOKYvo0",
+  "nextPageToken": "CBkQAA",
+  "regionCode": "KR",
+  "pageInfo": {
+    "totalResults": 129,
+    "resultsPerPage": 25
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "aEuZXlFjbtdEXuejz7NGcM4XZYE",
+      "id": "mWDgsd7oTss",
+      "snippet": {
+        "publishedAt": "2022-01-02T11:00:31Z",
+        "channelId": "UC6P38PNQ_0psMYAGdau-9jg",
+        "title": "먹는데 진심인 고양이 (알달또 치팅데이) | Cat Cheating Day",
+        "description": "츄르 분수를 준비 했어요 알쏭이는 눈 알러지 때문에 당분간 간식 금지 ! Music provided by 브금대통령 Track : 웅장하고 멋진 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mWDgsd7oTss/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mWDgsd7oTss/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mWDgsd7oTss/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "알달또 Ardarddo",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-01-02T11:00:31Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ywGIFxGIhGq9p5IgiS55YxYLVlo",
+      "id": "ctbquMI29Hc",
+      "snippet": {
+        "publishedAt": "2022-12-20T05:27:12Z",
+        "channelId": "UC6P38PNQ_0psMYAGdau-9jg",
+        "title": "한국말 완벽하게 구사하는 고양이 레오 #shorts",
+        "description": "shorts.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ctbquMI29Hc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ctbquMI29Hc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ctbquMI29Hc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "알달또 Ardarddo",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-20T05:27:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "C4vNYCpwxFECE1meg15PXL-k53Y",
+      "id": "_EPLZmc7DFM",
+      "snippet": {
+        "publishedAt": "2021-03-18T12:29:56Z",
+        "channelId": "UC6P38PNQ_0psMYAGdau-9jg",
+        "title": "아빠가 부르기만 하면 무슨 일이 있어도 달려오는 고양이 #shorts",
+        "description": "shorts#SHORTS#Shorts.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_EPLZmc7DFM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_EPLZmc7DFM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_EPLZmc7DFM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "알달또 Ardarddo",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-03-18T12:29:56Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "WKSALG9QjKqgXabZJIzpg5097GE",
+      "id": "-f2f_xf7t4E",
+      "snippet": {
+        "publishedAt": "2022-06-22T11:00:00Z",
+        "channelId": "UC6P38PNQ_0psMYAGdau-9jg",
+        "title": "고양이 저금통 실사판  cat bank box live-action version   #Shorts",
+        "description": "또또는 간식을 하나씩 저금 해요 #Shorts Music provided by 브금대통령 Track : 뚱이는 못말려 - https://youtu.be/650XS7TLVvY.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-f2f_xf7t4E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-f2f_xf7t4E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-f2f_xf7t4E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "알달또 Ardarddo",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-06-22T11:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "t1WLFDWQCxR8UiNKccDaaIaCHMc",
+      "id": "oMC0O8XsuSs",
+      "snippet": {
+        "publishedAt": "2024-01-07T11:00:42Z",
+        "channelId": "UC6P38PNQ_0psMYAGdau-9jg",
+        "title": "한 달 만에 만난 집사 언니가 반가워 어쩔 줄 모르는 고양이",
+        "description": "국화와 장미.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oMC0O8XsuSs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oMC0O8XsuSs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oMC0O8XsuSs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "알달또 Ardarddo",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-01-07T11:00:42Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "iCdsdRkK7Phe0LFq05qFP4EkJN4",
+      "id": "Ku9Ozu87I2k",
+      "snippet": {
+        "publishedAt": "2023-01-30T11:00:14Z",
+        "channelId": "UC6P38PNQ_0psMYAGdau-9jg",
+        "title": "작정하고 숨어버린 집사를 고양이가 찾을 수 있을까?",
+        "description": "똑똑이들 Music provided by 브금대통령 Track : Ready To Nap - https://youtu.be/UZE2a9gTsDk Track : 졸려죽겠다 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Ku9Ozu87I2k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Ku9Ozu87I2k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ku9Ozu87I2k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "알달또 Ardarddo",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-30T11:00:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "gs7jEdWBe0dPCrxkQmYY6EgXGSY",
+      "id": "LNNF_qV7t7I",
+      "snippet": {
+        "publishedAt": "2021-04-14T11:00:08Z",
+        "channelId": "UC6P38PNQ_0psMYAGdau-9jg",
+        "title": "새벽에 내 고양이의 애교가 폭발했어요 (달콤한 게 땡긴다면 들어오세요) #shorts",
+        "description": "레오는 사랑이다     #shorts.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LNNF_qV7t7I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LNNF_qV7t7I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LNNF_qV7t7I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "알달또 Ardarddo",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-04-14T11:00:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "pGiiXMLiIH0XGm06i66fl--04-0",
+      "id": "IF-UJpesI_A",
+      "snippet": {
+        "publishedAt": "2023-04-02T11:00:07Z",
+        "channelId": "UC6P38PNQ_0psMYAGdau-9jg",
+        "title": "고양이가 아빠에게 사랑받기 위해 이렇게까지 하네요...",
+        "description": "오레오는 사랑이다 오늘의 일기 - • 토닥토닥 귀여운 음악 모음집 (...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IF-UJpesI_A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IF-UJpesI_A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IF-UJpesI_A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "알달또 Ardarddo",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-04-02T11:00:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "lvEK70hpMvIPmBVG53jjnrtXV58",
+      "id": "ROLcURp2fsc",
+      "snippet": {
+        "publishedAt": "2024-01-01T11:00:25Z",
+        "channelId": "UC6P38PNQ_0psMYAGdau-9jg",
+        "title": "고양이들이 새해부터 집합 당한 이유는?  #shorts",
+        "description": "새해 복 많이 받으세요 :) #shorts.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ROLcURp2fsc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ROLcURp2fsc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ROLcURp2fsc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "알달또 Ardarddo",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-01-01T11:00:25Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Okk6O4SMCpCQuoWUQz9osj1smi4",
+      "id": "FvRdbpozRCk",
+      "snippet": {
+        "publishedAt": "2023-02-09T11:00:15Z",
+        "channelId": "UC6P38PNQ_0psMYAGdau-9jg",
+        "title": "그 엄마의 그 아들 고양이는 우리 집 빌런이다",
+        "description": "또또 좀 그만 괴롭혀!! Music provided by 브금대통령 Track : 코믹한 BGM 모음 - https://youtu.be/M3j0QKsiIPc Track : 졸려 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FvRdbpozRCk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FvRdbpozRCk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FvRdbpozRCk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "알달또 Ardarddo",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-09T11:00:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "8KaP_Lp2JtlqZcOJuOtNaGAmdG4",
+      "id": "mopL7Zr4IC4",
+      "snippet": {
+        "publishedAt": "2023-05-29T11:00:36Z",
+        "channelId": "UC6P38PNQ_0psMYAGdau-9jg",
+        "title": "아빠가 너무 좋아서 눈만 마주치면 할 말이 많아지는 수다쟁이 고양이",
+        "description": "오늘은 레오와 둘이 꽁냥꽁냥 Music provided by 브금대통령 Track : 뉘예뉘예 - • [Royalty Free Mus... Track : Happy Day - • [브금 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mopL7Zr4IC4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mopL7Zr4IC4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mopL7Zr4IC4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "알달또 Ardarddo",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-29T11:00:36Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "SH0GKYHhWozQgobaPPwz3tND7Sw",
+      "id": "Sl2eBNAASV4",
+      "snippet": {
+        "publishedAt": "2022-06-16T11:00:22Z",
+        "channelId": "UC6P38PNQ_0psMYAGdau-9jg",
+        "title": "너무나 심심했던 고양이가 벌인 행동  Behavior done by a very bored cat",
+        "description": "국화와 장미 Music provided by 브금대통령 Track : 졸려죽겠다 - https://youtu.be/2BuLYN0wbMI 오늘의 일기 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Sl2eBNAASV4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Sl2eBNAASV4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Sl2eBNAASV4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "알달또 Ardarddo",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-06-16T11:00:22Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "RR7VWo-PsmnfP1C_nLg9GMQABag",
+      "id": "1_hzlymz7Ec",
+      "snippet": {
+        "publishedAt": "2022-07-19T11:00:00Z",
+        "channelId": "UC6P38PNQ_0psMYAGdau-9jg",
+        "title": "고양이 앞에서 참치를 먹으면 생기는 일🤣🤣   What happens when you eat tuna in front of a cat",
+        "description": "오늘의 일기 - https://youtu.be/Sail0squu4Y.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1_hzlymz7Ec/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1_hzlymz7Ec/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1_hzlymz7Ec/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "알달또 Ardarddo",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-07-19T11:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Pc7A_baCpS6j_0NlLcA9fyyXzc0",
+      "id": "15GlTPnb-KU",
+      "snippet": {
+        "publishedAt": "2022-10-09T11:00:00Z",
+        "channelId": "UC6P38PNQ_0psMYAGdau-9jg",
+        "title": "외로워하는 고양이를 위해 집사가 벌인 행동😮😮",
+        "description": "Music provided by 브금대통령 Track : Winter Waltz - https://youtu.be/kR6i3U9LrMc.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/15GlTPnb-KU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/15GlTPnb-KU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/15GlTPnb-KU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "알달또 Ardarddo",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-10-09T11:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "aiyL6i-c2L4GktU1xmkvlC4lvls",
+      "id": "40Ls0UqfZ3I",
+      "snippet": {
+        "publishedAt": "2023-03-27T11:00:04Z",
+        "channelId": "UC6P38PNQ_0psMYAGdau-9jg",
+        "title": "아픈데도 아빠 옆에선 괜찮은 척하는 고양이의 모습에 마음이 짠했어요",
+        "description": "레오야 아프지 마 Music provided by 브금대통령 Track : 웃기고있네 - • [브금대통령] (농담/장난/Bl... 오늘의 일기 - • 토닥토닥 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/40Ls0UqfZ3I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/40Ls0UqfZ3I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/40Ls0UqfZ3I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "알달또 Ardarddo",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-03-27T11:00:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "NhZXBlPSnVuwrsGGpMF_Rr53mbk",
+      "id": "JVOKttPzNAQ",
+      "snippet": {
+        "publishedAt": "2021-01-16T05:00:03Z",
+        "channelId": "UC6P38PNQ_0psMYAGdau-9jg",
+        "title": "[ENG] 고양이가 너무 행복하면 생기는 일",
+        "description": "BGM ♬Music Source : 내장탕 - 이상한 하루 [https://youtu.be/BxOWdm8YZfU] Song : OurMusicBox - Light Hearted Dance ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JVOKttPzNAQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JVOKttPzNAQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JVOKttPzNAQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "알달또 Ardarddo",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-01-16T05:00:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ulmD2ka860SUBDKq8es7-XEQQFc",
+      "id": "Veb1_qBiZOk",
+      "snippet": {
+        "publishedAt": "2023-08-06T11:00:18Z",
+        "channelId": "UC6P38PNQ_0psMYAGdau-9jg",
+        "title": "울음소리만 듣다가 실제로 얼굴을 처음 본 고양이의 반응",
+        "description": "춘국장 꽃자매들 이야기.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Veb1_qBiZOk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Veb1_qBiZOk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Veb1_qBiZOk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "알달또 Ardarddo",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-08-06T11:00:18Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "j9jEueRNrYbEsX-pEm7Cljady6s",
+      "id": "nLWK1D7yRnQ",
+      "snippet": {
+        "publishedAt": "2022-09-12T11:00:26Z",
+        "channelId": "UC6P38PNQ_0psMYAGdau-9jg",
+        "title": "누군가를 너무너무 좋아하면 벌어지는 일   What happens when you really love someone",
+        "description": "알달춘또레국장 오늘의 일기 - https://youtu.be/_YdFyzU8ryA Music provided by 브금대통령 Track : 졸려죽겠다 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nLWK1D7yRnQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nLWK1D7yRnQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nLWK1D7yRnQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "알달또 Ardarddo",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-09-12T11:00:26Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "49v98NsUWlLhSyQrXpJNH795gbU",
+      "id": "uhlxlw0GS80",
+      "snippet": {
+        "publishedAt": "2023-01-15T11:00:28Z",
+        "channelId": "UC6P38PNQ_0psMYAGdau-9jg",
+        "title": "고양이가 엄마랑 12년 동안 의사소통이 안 되면 생기는 일",
+        "description": "달쏭이가 기운을 차렸어요 오늘의 일기 - https://youtu.be/spvEN9gmIw8.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uhlxlw0GS80/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uhlxlw0GS80/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uhlxlw0GS80/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "알달또 Ardarddo",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-15T11:00:28Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "srgizb-70P47Fd0eCdSPogu-9Bw",
+      "id": "6PQFz-eP3J8",
+      "snippet": {
+        "publishedAt": "2023-05-28T11:00:07Z",
+        "channelId": "UC6P38PNQ_0psMYAGdau-9jg",
+        "title": "고양이 싫어했던 엄마에게 이쁨 받을 수밖에 없던 이유",
+        "description": "국화와 장미.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6PQFz-eP3J8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6PQFz-eP3J8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6PQFz-eP3J8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "알달또 Ardarddo",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-28T11:00:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "pV41fThFk5E_67KqU5tsAZ4iPuc",
+      "id": "bq0lmVC-tHw",
+      "snippet": {
+        "publishedAt": "2023-05-15T11:00:27Z",
+        "channelId": "UC6P38PNQ_0psMYAGdau-9jg",
+        "title": "막내딸 장미의 재롱에 우리 집은 항상 행복해요",
+        "description": "국화는 너무너무너무 얌전하고 착해.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bq0lmVC-tHw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bq0lmVC-tHw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bq0lmVC-tHw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "알달또 Ardarddo",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-15T11:00:27Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "_Da8HIhWtnIHH3tJ4hBL78WD1p4",
+      "id": "lC8O7rte-tw",
+      "snippet": {
+        "publishedAt": "2023-04-24T11:00:23Z",
+        "channelId": "UC6P38PNQ_0psMYAGdau-9jg",
+        "title": "고된 농사일에 힘든 엄마를 웃게 해주는 효녀 고양이",
+        "description": "국화와 장미 이야기.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lC8O7rte-tw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lC8O7rte-tw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lC8O7rte-tw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "알달또 Ardarddo",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-04-24T11:00:23Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "bMX8FhZoiYQSMAZPXDCBJEj9GJo",
+      "id": "btp_xXGNCJg",
+      "snippet": {
+        "publishedAt": "2023-06-05T11:00:32Z",
+        "channelId": "UC6P38PNQ_0psMYAGdau-9jg",
+        "title": "오냐오냐 키운 고양이 버르장머리 고치는 방법ㅋㅋ",
+        "description": "알달춘또레 출격!!! Music provided by 브금대통령 Track : Ready To Nap - • [브금대통령] (장난/엉뚱/Co... Track : 안졸리나 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/btp_xXGNCJg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/btp_xXGNCJg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/btp_xXGNCJg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "알달또 Ardarddo",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-06-05T11:00:32Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ELIGLrrIWU2FTPUvBd19YTK9UQI",
+      "id": "VK_KxUTA5bk",
+      "snippet": {
+        "publishedAt": "2022-12-11T11:00:29Z",
+        "channelId": "UC6P38PNQ_0psMYAGdau-9jg",
+        "title": "이 정도까지 사람과 대화 가능한 고양이 보신 분?",
+        "description": "먹을 것 때문에 사람의 말을 하는 집념의 오레오 오늘의 일기 - https://youtu.be/SViUuSlZuUM.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VK_KxUTA5bk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VK_KxUTA5bk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VK_KxUTA5bk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "알달또 Ardarddo",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-11T11:00:29Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "jfr3BciHrAwF3itMsvM4nzvwgu8",
+      "id": "v5y_swg9Sek",
+      "snippet": {
+        "publishedAt": "2023-06-19T11:00:47Z",
+        "channelId": "UC6P38PNQ_0psMYAGdau-9jg",
+        "title": "이렇게 귀엽게 투정 부리는 고양이 본 적 있나요?",
+        "description": "국화와 장미 이야기.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/v5y_swg9Sek/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/v5y_swg9Sek/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/v5y_swg9Sek/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "알달또 Ardarddo",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-06-19T11:00:47Z"
+      }
+    }
+  ]
+}
