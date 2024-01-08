@@ -17,16 +17,25 @@ export default function Header() {
   };
 
   return (
-    <div className={styles['header-container']}>
-      <div stlye={{ height: '30px' }}>
-        <img src={youtubeLogo} className={styles.logo} alt="youtube-logo"></img>
+    <div className="flex items-center justify-center">
+      <div className="w-1/5 h-20 flex items-center ">
+        <img src={youtubeLogo} className="w-10 h-8 mr-2" alt="youtube-logo"></img>
         <b>Youtube</b>
       </div>
-      <form className={styles['search-container']} onSubmit={handleSubmit}>
-        <input type="text" value={text} id={styles['search-bar']} placeholder="검색" onChange={onChange} />
-        <a href="/" onClick={handleSubmit}>
-          <img className={styles['search-icon']} src="http://www.endlessicons.com/wp-content/uploads/2012/12/search-icon.png" alt="" />
-        </a>
+      <form className="flex w-3/5" onSubmit={handleSubmit}>
+        <input
+          type="text"
+          value={text}
+          className="py-2 px-4 w-4/5 border border-gray-300 focus:outline-none focus:border-blue-500 rounded-l-full rounded-r-none"
+          placeholder="검색"
+          onChange={onChange}
+        />
+        <div className="py-1 px-2 w-1/5 p-0 border border-gray-300  bg-gray-100 rounded-r-full rounded-l-none">
+          <button
+            className="bg-cover bg-center w-10 h-10"
+            style={{ backgroundImage: 'url("http://www.endlessicons.com/wp-content/uploads/2012/12/search-icon.png")' }}
+          ></button>
+        </div>
       </form>
     </div>
   );
