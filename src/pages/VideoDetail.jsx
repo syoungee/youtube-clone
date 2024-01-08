@@ -15,7 +15,6 @@ export default function VideoDetail() {
   const { youtube } = useYoutubeApi();
   const { videoId } = useParams();
   const { isLoading, error, data: channels } = useQuery({ queryKey: ['channel', videoId], queryFn: () => youtube.searchChannel(videoId) });
-  console.log(video);
 
   return (
     <>
