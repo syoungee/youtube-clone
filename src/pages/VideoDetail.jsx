@@ -20,7 +20,6 @@ export default function VideoDetail() {
   return (
     <>
       <SearchHeader />
-      VideoDetail
       <YoutubePlayer
         title={title || ''}
         videoId={video?.id?.videoId || video.id}
