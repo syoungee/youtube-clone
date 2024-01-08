@@ -10,7 +10,7 @@ export default function Videos() {
   const navigate = useNavigate();
   const { keyword } = useParams();
   const { youtube } = useYoutubeApi();
-  const { isLoading, error, data: videos } = useQuery({ queryKey: ['videos', keyword], queryFn: () => youtube.search(keyword) });
+  const { isLoading, error, data: videos } = useQuery({ queryKey: ['videos', keyword], queryFn: () => youtube.search(keyword), staleTime: 1000 * 60 * 1 });
 
   const onClick = (e) => {
     console.log('clicked!');
