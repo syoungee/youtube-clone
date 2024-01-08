@@ -1,5 +1,5 @@
 import React from 'react';
-import { useParams } from 'react-router-dom';
+import { useParams, useNavigate } from 'react-router-dom';
 import { useQuery } from '@tanstack/react-query';
 import SearchHeader from '../components/SearchHeader';
 import styles from '../components/VideoList.module.css';
@@ -7,9 +7,14 @@ import { useYoutubeApi } from '../context/YoutubeApiContext';
 import { formatAgo } from '../util/date';
 
 export default function Videos() {
+  const navigate = useNavigate();
   const { keyword } = useParams();
   const { youtube } = useYoutubeApi();
   const { isLoading, error, data: videos } = useQuery({ queryKey: ['videos', keyword], queryFn: () => youtube.search(keyword) });
+
+  const onClick = (e) => {
+    console.log('clicked!');
+  };
 
   return (
     <div>
@@ -20,8 +25,16 @@ export default function Videos() {
       <ul className={styles['video-container']}>
         {videos &&
           videos.map((video) => (
-            <li key={video.id}>
-              <img src={video.snippet.thumbnails.medium.url} alt={video.snippet.title} className={styles['thumbnail']} />
+            <li key={video.id?.videoId}>
+              <img
+                src={video.snippet.thumbnails.medium.url}
+                alt={video.snippet.title}
+                className={styles['thumbnail']}
+                onClick={() => {
+                  console.log(video.id?.videoId);
+                  navigate(`/videos/watch/${video.id.videoId}`);
+                }}
+              />
               <div>
                 <p className="font-semibold my-2 line-clamp-2">{video.snippet.title}</p>
                 <p className="text-sm opacity-80">{video.snippet.channelTitle}</p>
